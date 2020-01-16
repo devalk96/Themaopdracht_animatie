@@ -36,8 +36,8 @@ https://bitbucket.org/mkempenaar/pypovray/src/master/
 The "vapory.py" needs an additional class. The following syntax should added to the file:
 
 
-class Function(POVRayElement):
-"""Function()"""
+    class Function(POVRayElement):
+    """Function()"""
 
 
 The "main.py" file needs to be in the same map as the installation folder to be able to work. (./pypovray/)
