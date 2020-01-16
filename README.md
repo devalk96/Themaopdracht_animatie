@@ -1,10 +1,10 @@
 # Themaopdracht_animatie
-Author Sander Bouwman, Niels van der Linden
-Date 16 january 2020
-Version 1.0
+Author Sander Bouwman, Niels van der Linden  
+Date 16 january 2020  
+Version 1.0  
 
 ## NAME
-Replication of bacteriophage Escherichia T4 virus.
+Replication of bacteriophage Escherichia T4 virus.  
 
 ## DESCRIPTION
 This is a python 3 project containing 3 files, an MP4 file with the final render of the "main.py" script, the main script 'main.py' and the module "virus.py" file.
