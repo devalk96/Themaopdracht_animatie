@@ -49,8 +49,9 @@ To install the software needed for this project, follow the guide for
 <https://bitbucket.org/mkempenaar/pypovray/src/master/>
 
 USAGE
+-----
 
-The "vapory.py" needs an additional class. The following syntax should
+The "vapory.py" needs an additional class. The following syntax should be
 added to the file:
 
     class Function(POVRayElement):
